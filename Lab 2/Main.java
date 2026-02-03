@@ -16,4 +16,4 @@ public class Main {
         System.out.println("\n=== Задание 5: Переопределение и полиморфизм ===");
         Task5Polymorphism.run();
     }
-}ы
+}
