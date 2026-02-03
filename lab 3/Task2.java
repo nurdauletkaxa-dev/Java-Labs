@@ -4,10 +4,9 @@ public class Task2 {
         int a = 15;
         int b = 3;
 
-        int sum = a + b;         // Сложение
-        int product = a * b;     // Умножение
-        double division = (double) a / b;  // Деление с приведением к типу double
-
+        int sum = a + b;         
+        int product = a * b;     
+        double division = (double) a / b;  
         System.out.println("Сумма: " + sum);
         System.out.println("Произведение: " + product);
         System.out.println("Частное: " + division);

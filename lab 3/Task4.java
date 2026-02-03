@@ -8,11 +8,11 @@ public class Task4 {
         System.out.print("Введите целое число: ");
         int num = scanner.nextInt();
 
-        int square = num * num;  // Вычисление квадрата числа
+        int square = num * num;  
 
         System.out.println("Квадрат числа " + num + " равен: " + square);
 
-        // Закрываем Scanner, чтобы избежать утечек ресурсов
+        
         scanner.close();
     }
 }

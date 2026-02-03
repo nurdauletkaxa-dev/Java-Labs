@@ -11,11 +11,11 @@ public class Task5 {
         System.out.print("Введите ширину прямоугольника: ");
         double width = scanner.nextDouble();
 
-        double area = length * width;  // Вычисление площади
+        double area = length * width;  
 
         System.out.println("Площадь прямоугольника: " + area);
 
-        // Закрываем Scanner, чтобы избежать утечек ресурсов
+        
         scanner.close();
     }
 }

@@ -5,11 +5,10 @@ public class Task1 {
         int b = 10;
         int c = 20;
 
-        int sum = a + b + c;  // Сложение трех чисел
-
+        int sum = a + b + c;  
         System.out.println("Переменная a: " + a);
         System.out.println("Переменная b: " + b);
         System.out.println("Переменная c: " + c);
-        System.out.println("Сумма: " + sum);  // Вывод суммы
+        System.out.println("Сумма: " + sum);  
     }
 }
